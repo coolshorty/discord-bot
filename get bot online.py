@@ -16,4 +16,4 @@ async def on_message(message):
         await message.channel.send('Hello {0.author.mention} Welcome Man'.format(message))
     elif message.content.startswith('help'):
         await message.channel.send("Let me check with that level and come back to you")
-client.run('your token_id')
+client.run('ODEwOTAwMTI3ODQ1MTg3NjI1.YCqXmA.mi21LIY5M7sGun9U4izcwA9gvfs')
