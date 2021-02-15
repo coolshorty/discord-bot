@@ -27,4 +27,4 @@ print("Recognised that a member called " + member.name + " left")
 await client.send_message(discord.Object(id='CHANNELID'), member.name + ' left')
 print("Sent message to #CHANNEL")
 
-client.run('Token')
+client.run('ODEwOTAwMTI3ODQ1MTg3NjI1.YCqXmA.mi21LIY5M7sGun9U4izcwA9gvfs')
